@@ -1,4 +1,4 @@
-#ElevatorSaga Solution
+# ElevatorSaga Solution
 
 This repo contains my attempted solution at the [ElevatorSaga](http://play.elevatorsaga.com) programming game.
 
